@@ -1,0 +1,382 @@
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\ApplicationInsights.config
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\csc.exe
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\csc.exe.config
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\csc.rsp
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\csi.exe
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\csi.rsp
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\vbc.exe
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\vbc.exe.config
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\vbc.rsp
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupWebApi.dll.config
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupWebApi.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupWebApi.pdb
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Antlr3.Runtime.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\AutoMapper.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupDAL.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupDTO.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Marvin.JsonPatch.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Localization.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Options.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Hosting.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Newtonsoft.Json.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.Web.Common.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.Web.WebApi.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.WebApi.DependencyResolver.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Owin.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\RestSharp.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.Core.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Buffers.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Collections.NonGeneric.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.ComponentModel.Primitives.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.IO.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Linq.Dynamic.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Reflection.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Runtime.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Runtime.Extensions.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Runtime.InteropServices.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Text.Encodings.Web.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Cors.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Helpers.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.Cors.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.Owin.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.SelfHost.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Mvc.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Optimization.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Razor.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\WebActivatorEx.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\WebGrease.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupDAL.pdb
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupDTO.pdb
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\AutoMapper.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Localization.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Options.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Hosting.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Newtonsoft.Json.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.Web.Common.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.Web.WebApi.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\RestSharp.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Text.Encodings.Web.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.Owin.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.SelfHost.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Helpers.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Mvc.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Optimization.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Razor.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\obj\Debug\LockerPickupWebApi.csprojResolveAssemblyReference.cache
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\obj\Debug\LockerPickupWebApi.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupWebApi\obj\Debug\LockerPickupWebApi.pdb
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\ApplicationInsights.config
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\csc.exe
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\csc.exe.config
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\csc.rsp
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\csi.exe
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\csi.rsp
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.AppContext.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\vbc.exe
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\vbc.exe.config
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\vbc.rsp
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\VBCSCompiler.exe
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupWebApi.dll.config
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupWebApi.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupWebApi.pdb
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Antlr3.Runtime.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\AutoMapper.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupDAL.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupDTO.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Marvin.JsonPatch.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.Web.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Authorization.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Routing.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.DependencyModel.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Localization.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.ObjectPool.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Options.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Primitives.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.WebEncoders.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Net.Http.Headers.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Hosting.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Newtonsoft.Json.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.Web.Common.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.Web.WebApi.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.WebApi.DependencyResolver.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Owin.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\RestSharp.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.Core.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Buffers.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Collections.NonGeneric.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.ComponentModel.Primitives.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.ComponentModel.TypeConverter.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.IO.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Linq.Dynamic.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Net.Http.Formatting.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Reflection.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Runtime.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Runtime.Extensions.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Runtime.InteropServices.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Runtime.Serialization.Primitives.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Text.Encodings.Web.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Cors.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Helpers.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.Cors.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.Owin.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.SelfHost.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.WebHost.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Mvc.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Optimization.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Razor.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.Razor.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\WebActivatorEx.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\WebGrease.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupDAL.pdb
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\LockerPickupDTO.pdb
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\AutoMapper.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Authorization.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Routing.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Localization.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.ObjectPool.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Options.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.Primitives.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Extensions.WebEncoders.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Net.Http.Headers.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.Owin.Hosting.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Newtonsoft.Json.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.Web.Common.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Ninject.Web.WebApi.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\RestSharp.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Text.Encodings.Web.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.Cors.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.Owin.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.SelfHost.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Net.Http.Formatting.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Helpers.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Http.WebHost.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Mvc.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Optimization.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.Razor.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\System.Web.WebPages.Razor.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Antlr3.Runtime.pdb
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\bin\Microsoft.AI.Web.xml
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\obj\Debug\LockerPickupWebApi.csprojResolveAssemblyReference.cache
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\obj\Debug\LockerPickupWebApi.dll
+C:\HostedToGitHub\LockerPickupWebApi\LockerPickupWebApi\obj\Debug\LockerPickupWebApi.pdb

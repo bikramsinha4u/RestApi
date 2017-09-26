@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockerPickupWebApi", "LockerPickupWebApi\LockerPickupWebApi.csproj", "{DD9B5157-BF21-4325-86C4-CC7E8C52B5A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockerPickupWebApi.Tests", "LockerPickupWebApi.Tests\LockerPickupWebApi.Tests.csproj", "{EA681194-B9E7-407E-BC23-5AFED251E2E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockerPickupDAL", "LockerPickupDAL\LockerPickupDAL.csproj", "{4C4C8130-C697-4C58-90F7-CE2AC5939F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockerPickupDTO", "LockerPickupDTO\LockerPickupDTO.csproj", "{964A2EB0-308E-4E9A-B39E-15133DA4ADBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9B5157-BF21-4325-86C4-CC7E8C52B5A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9B5157-BF21-4325-86C4-CC7E8C52B5A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9B5157-BF21-4325-86C4-CC7E8C52B5A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9B5157-BF21-4325-86C4-CC7E8C52B5A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA681194-B9E7-407E-BC23-5AFED251E2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA681194-B9E7-407E-BC23-5AFED251E2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA681194-B9E7-407E-BC23-5AFED251E2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA681194-B9E7-407E-BC23-5AFED251E2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4C8130-C697-4C58-90F7-CE2AC5939F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4C8130-C697-4C58-90F7-CE2AC5939F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4C8130-C697-4C58-90F7-CE2AC5939F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4C8130-C697-4C58-90F7-CE2AC5939F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964A2EB0-308E-4E9A-B39E-15133DA4ADBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964A2EB0-308E-4E9A-B39E-15133DA4ADBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964A2EB0-308E-4E9A-B39E-15133DA4ADBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964A2EB0-308E-4E9A-B39E-15133DA4ADBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

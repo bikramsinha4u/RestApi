@@ -1,0 +1,7 @@
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupDAL\bin\Debug\LockerPickupDAL.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupDAL\bin\Debug\LockerPickupDAL.pdb
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupDAL\bin\Debug\LockerPickupDTO.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupDAL\bin\Debug\LockerPickupDTO.pdb
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupDAL\obj\Debug\LockerPickupDAL.csprojResolveAssemblyReference.cache
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupDAL\obj\Debug\LockerPickupDAL.dll
+C:\Users\bsinha\documents\visual studio 2017\Projects\LockerPickupWebApi\LockerPickupDAL\obj\Debug\LockerPickupDAL.pdb
